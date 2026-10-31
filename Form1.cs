@@ -28,7 +28,6 @@ namespace MyGitProjectTest
             if(aa == "ssss")
             {
                 this.button1.Text = "提交";
-
             }
             else
             {
