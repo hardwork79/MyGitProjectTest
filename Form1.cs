@@ -24,7 +24,16 @@ namespace MyGitProjectTest
 
         private void button2_Click(object sender, EventArgs e)
         {
+            string aa = "ssss";
+            if(aa == "ssss")
+            {
+                this.button1.Text = "提交";
 
+            }
+            else
+            {
+                this.button1.Text = "提交2";
+            }
         }
     }
 }
